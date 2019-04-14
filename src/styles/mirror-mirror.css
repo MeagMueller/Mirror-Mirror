@@ -1,0 +1,13 @@
+#leftShark {
+    border: 3px solid red;
+}
+
+#rightShark {
+    border: 3px dashed blue;
+}
+
+#container{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50%;
+}
